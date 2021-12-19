@@ -1,0 +1,4 @@
+asn1crypto==1.4.0
+lxml==4.7.1
+oscrypto==1.2.1
+pycryptodome==3.12.0
